@@ -9,14 +9,18 @@
   <a href="https://app.codacy.com/gh/1Panel-dev/1Panel?utm_source=github.com&utm_medium=referral&utm_content=1Panel-dev/1Panel&utm_campaign=Badge_Grade_Dashboard"><img src="https://app.codacy.com/project/badge/Grade/da67574fd82b473992781d1386b937ef" alt="Codacy"></a>
   <a href="https://github.com/1Panel-dev/1Panel/releases"><img src="https://img.shields.io/github/v/release/1Panel-dev/1Panel" alt="GitHub release"></a>
   <a href="https://github.com/1Panel-dev/1Panel"><img src="https://img.shields.io/github/stars/1Panel-dev/1Panel?color=%231890FF&style=flat-square" alt="Stars"></a><br>
-  [<a href="/README.md">English</a>] | [<a href="/docs/README.zh-Hans.md">中文(简体)</a>] | [<a href="/docs/README.zh-Hant.md">中文(繁體)</a>] | [<a href="/docs/README.ja.md">日本語</a>] | [<a href="/docs/README.pt-br.md">Português (Brasil)</a>] | [<a href="/docs/README.ko.md">한국어</a>]| [<a href="/docs/README.id.md">Bahasa Indonesia</a>]
+  [<a href="/README.md">English</a>] | [<a href="/docs/README.zh-Hans.md">中文(简体)</a>] | [<a href="/docs/README.zh-Hant.md">中文(繁體)</a>] | [<a href="/docs/README.ja.md">日本語</a>] | [<a href="/docs/README.pt-br.md">Português (Brasil)</a>] | [<a href="/docs/README.ko.md">한국어</a>]| [<a href="/docs/README.id.md">Bahasa Indonesia</a>]| [<a href="/docs/README.es.md">Español</a>]| [<a href="/docs/README.fr.md">Français</a>]| [<a href="/docs/README.de.md">Deutsch</a>]| [<a href="/docs/README.tr.md">Türkçe</a>]| [<a href="/docs/README.ar.md">العربية</a>]
 </p>
 
 
 
 ------------------------------
 
-1Panel هي لوحة تحكم مفتوحة المصدر وحديثة تعتمد على الويب لادارة خادمات Linux.
+
+
+<div dir="rtl">
+  1Panel هي لوحة تحكم وتشغيل وتصيان خادمات Linux من الجيل الجديد.
+
 
 - **الإدارة الفعالة**: من خلال واجهة رسومية ويب مستخدمة بسهولة، يتيح 1Panel للمستخدمين إدارة خادمات Linux الخاصة بهم بلا عناء. وتشمل الميزات الرئيسية مراقبة المضيفات، وإدارة الملفات، وإدارة قواعد البيانات، وإدارة الحاويات. 
 - **استعراض المواقع على الإنترنت بسرعة**: بفضل التكامل العميق مع برنامج WordPress الشهير لبناء المواقع عبر الإنترنت المفتوح المصدر، يعمل 1Panel على تبسيط عملية ربطドومين (المجال) وتكوين شهادات SSL، وكل ذلك يمكن تحقيقه بضغطة زر واحدة. 
@@ -49,7 +53,7 @@ curl -sSL https://resource.1panel.hk/quick_start.sh -o quick_start.sh && bash qu
 ## رخصة
 
 مخول بموجب الرخصة العامة العامة لغنو GPLv3 (الرخصة العامة العامة لغنو GPLv3) (هذه "الرخصة")؛ لن تتمكن من استخدام هذا الملف إلا إذا اتبعت الرخصة. يمكنك الحصول على نسخة من الرخصة من
-
 <https://www.gnu.org/licenses/gpl-3.0.html>
 
 ما لم يكن ذلك مطلوبًا بموجب القانون المعمول به أو لم يتم الاتفاق عليه كتابيًا، يتم توزيع البرنامج الموزع بموجب الرخصة على أساس "كما هو"، بلا أي نوع من الضمانات أو الشروط، سواء كانت صريحة أو ضمنية. راجع الرخصة للحصول على اللغة المحددة التي تحكم الصلاحيات والقيود بموجب الرخصة. 
+</div>
