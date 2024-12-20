@@ -207,6 +207,7 @@ onMounted(() => {
     text-decoration: none;
     letter-spacing: 0.5px;
     cursor: pointer;
+    font-family: auto;
 }
 .line-height {
     line-height: 25px;
